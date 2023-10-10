@@ -1,0 +1,6 @@
+com\corsapp\corsapplication\model\Coffee.class
+com\corsapp\corsapplication\CorsapplicationApplication.class
+com\corsapp\corsapplication\model\Size.class
+com\corsapp\corsapplication\model\UserEntity.class
+com\corsapp\corsapplication\config\WebMvcConfig.class
+com\corsapp\corsapplication\controller\CoffeeController.class
